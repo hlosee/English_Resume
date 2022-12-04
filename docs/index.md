@@ -9,7 +9,6 @@ Data Science Minor
 <div id="webaddress">
 <a href="datascience@byui.edu">tylerhelamanenglish@gmail.com</a>
 | <a href="https://github.com/TylerEnglish">Github</a>
-</div>
 | <a href="www.linkedin.com/in/tyler-english-62b758230">LinkedIn</a>
 </div>
 <!-- https://www.monique.tech/the-art-of-markdown -->
