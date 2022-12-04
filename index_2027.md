@@ -1,83 +1,123 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Tyler English's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Tyler English
+Computer Science Major 
+Data Science Minor
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="datascience@byui.edu">tylerhelamanenglish@gmail.com</a>
+| <a href="https://github.com/TylerEnglish">Github</a>
 </div>
-
+| <a href="www.linkedin.com/in/tyler-english-62b758230">LinkedIn</a>
+</div>
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Computer Science Major
+- Data Science Minor
 
+## Clubs
+
+### Artificial Intelligence Society
+
+`January 2021 - April 2022` 
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Member 
+- worked on projects
+
+
+`April 2022 - June 2022` 
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- VP over Projects 
+- designed projects for the society
+
+`June 2022 - Current` 
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- President 
+- Help with getting projects and help with marketing
+
+### Data Science Society
+
+`January 2022 - September 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Member 
+- worked on multiple projects learning significant data science skills
+
+`September 2022 - Current` 
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Project Manager -Lead a project to members on my team
+
+### Association for Computing Machinery Society
+
+- `January 2022 - April 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Member 
+- came and learn what computer science is
+
+`April 2022 - Current`
+__Brigham Young University - Idaho__, Rexburg, ID
+- Help with logistics and marketing so people show up
 
 ## Related Experience
 
-### Internships
+### Teacher Assistant
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2022 - December 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- TA for Programming Building Blocks and Programming with Functions
+- TA for Programming with Class
+- Tutoring students’ face to face providing extra feedback
+- Grading students’ assignments online providing improvement
 
-### Data Science Lead
+## Projects
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Skin Cancer Detection
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`March 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- A project that me and a couple others are currently working on. It utilizes a CNN model to help predict between 2 types of Skin Cancer so far. Currently digging up more data so we can train it on the other types.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Wilford Woodruff Papers 
 
-### Data Science Consulting Team
+`May 2022 - July 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Project started in Data Science Society where we analyzed Wilford Woodruff Journal entries.
+- Building a simple chatbot to help organized through the analyzed text
+- Provided a text generator to see if I could make a fake Journal Entree 
+-  <a href="https://github.com/BYUIDSS/DSS_S22_Wilford_Woodruff_Papers">link</a>
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+## Skills
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+### Hard Skills
+- Python
+- C#
+- SQL
+- Machine Learning
+- Analytical
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+### Soft Skills
+- Teamwork
+- Organization
+- Creativity
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+</div>
 
 
 
