@@ -1,9 +1,9 @@
 ---
-layout: resume
+layout: cv
 title: Tyler English's Resume
 ---
 # Tyler English
-Computer Science Major 
+Computer Science Major |
 Data Science Minor
 
 <div id="webaddress">
