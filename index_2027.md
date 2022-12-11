@@ -27,49 +27,50 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Artificial Intelligence Society
 
-`January 2021 - April 2022` 
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- Member 
-- worked on projects
-
-
-`April 2022 - June 2022` 
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- VP over Projects 
-- designed projects for the society
-
 `June 2022 - Current` 
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - President 
 - Help with getting projects and help with marketing
 
-### Data Science Society
+`April 2022 - June 2022` 
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`January 2022 - September 2022`
+- VP over Projects 
+- Designed projects for the society
+
+`January 2021 - April 2022` 
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Member 
-- worked on multiple projects learning significant data science skills
+- Worked on projects
+
+
+### Data Science Society
 
 `September 2022 - Current` 
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Project Manager -Lead a project to members on my team
 
+`January 2022 - September 2022`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Member 
+- Worked on multiple projects learning significant data science skills
+
+
 ### Association for Computing Machinery Society
+
+`April 2022 - Current`
+__Brigham Young University - Idaho__, Rexburg, ID
+- Help with logistics and marketing to incrase attendance
 
 - `January 2022 - April 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Member 
-- came and learn what computer science is
-
-`April 2022 - Current`
-__Brigham Young University - Idaho__, Rexburg, ID
-- Help with logistics and marketing so people show up
+- Came and learn what computer science is
 
 ## Related Experience
 
@@ -80,7 +81,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - TA for Programming Building Blocks and Programming with Functions
 - TA for Programming with Class
-- Tutoring students’ face to face providing extra feedback
+- Tutoring students’ face-to-face providing extra feedback
 - Grading students’ assignments online providing improvement
 
 ## Projects
