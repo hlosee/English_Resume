@@ -3,8 +3,7 @@ layout: cv
 title: Tyler English's Resume
 ---
 # Tyler English
-Computer Science Major |
-Data Science Minor
+Computer Science Major | Data Science Minor
 -----------------------------------------------------------------------------------------------------------------------------------
 tylerhelamanenglish@gmail.com | [GitHub](https://github.com/TylerEnglish) | [LinkedIn](www.linkedin.com/in/tyler-english-62b758230)
 -----------------------------------------------------------------------------------------------------------------------------------
